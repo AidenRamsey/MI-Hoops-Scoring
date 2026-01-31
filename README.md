@@ -6,4 +6,6 @@ Essentially, this is a way to track MI basketball scores. Simply follow the prom
 
 The only downside is that unfortunately I have not added the functionality of exporting the FG % for 2s and 3s even though there is a command to track them while the program is running. Simply do the ATTEMPT command twice for each team (one for twos, one for threes) before you close the program at the end of the game to identify what those percentages are. 
 
+The executable file is included, so for easy access, you can just run this file instead of compiling again. 
+
 Enjoy! 
